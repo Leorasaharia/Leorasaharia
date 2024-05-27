@@ -1,5 +1,5 @@
 <h1 align="center">Hey!! I'm Leora Saharia</h1>
-<h3 align="center">A passionate frontend developer from India!</h3>
+<h3 align="center">I'm a passionate Front-end Developer and I'm currently working on creating an AI-powered ChatBot for healthcare sector known as HealthBot</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leorasaharia&label=Profile%20views&color=0e75b6&style=flat" alt="leorasaharia" /> </p>
 
@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+ I'm Currently Building: [HealthBot](https://github.com/Leorasaharia/Health-Bot)
 - 🔭 I’m currently working as a Contributor on [StudyBuddy](https://github.com/nishaYO/StudyBuddy)
 
 - 🔭 I’m currently working as a Contributor [MotoSports](https://github.com/MotoSports-NITRR/MotoSports-24)
