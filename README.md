@@ -7,18 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
- I'm Currently Building: [HealthBot](https://github.com/Leorasaharia/Health-Bot)
-- 🔭 I’m currently working as a Contributor on [StudyBuddy](https://github.com/nishaYO/StudyBuddy)
+**I'm Currently Building: [HealthBot](https://github.com/Leorasaharia/Health-Bot)**
+I’m currently working as a Contributor on [StudyBuddy](https://github.com/nishaYO/StudyBuddy)
 
-- 🔭 I’m currently working as a Contributor [MotoSports](https://github.com/MotoSports-NITRR/MotoSports-24)
+I’m currently working as a Contributor [MotoSports](https://github.com/MotoSports-NITRR/MotoSports-24)
 
-- 👨‍💻 you can check my portfolio website: [https://leorasaharia.vercel.app/](https://leorasaharia.vercel.app/)
+you can check my portfolio website: [https://leorasaharia.vercel.app/](https://leorasaharia.vercel.app/)
 
-- 📫 How to reach me (Linkedin) **https://www.linkedin.com/in/leora-saharia-9403681a7/**
+How to reach me (Linkedin) **https://www.linkedin.com/in/leora-saharia-9403681a7/**
 
-- 📫 How to reach me (Email) **saharialeora2406@gmail.com**
+How to reach me (Email) **saharialeora2406@gmail.com**
 
-- ⚡ My Hobbies: **I like to sing and produce song in my free time.**
+My Hobbies: **I like to sing and produce song in my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
