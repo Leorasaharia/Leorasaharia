@@ -9,10 +9,6 @@
 
 **I'm Currently Building: [VitalCare](https://github.com/Leorasaharia/VitalCare)**
 
-I’m currently working as a Contributor on [StudyBuddy](https://github.com/nishaYO/StudyBuddy)
-
-I’m currently working as a Contributor [MotoSports](https://github.com/MotoSports-NITRR/MotoSports-24)
-
 you can check my portfolio website: [https://leorasaharia.vercel.app/](https://leorasaharia.vercel.app/)
 
 How to reach me (Linkedin) **https://www.linkedin.com/in/leora-saharia-9403681a7/**
