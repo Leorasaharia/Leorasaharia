@@ -1,5 +1,5 @@
 <h1 align="center">Hey!! I'm Leora Saharia</h1>
-<h3 align="center">I'm a passionate Front-end Developer and I'm currently working on creating an AI-powered ChatBot for healthcare sector known as HealthBot</h3>
+<h3 align="center">I'm a passionate Front-end Developer! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leorasaharia&label=Profile%20views&color=0e75b6&style=flat" alt="leorasaharia" /> </p>
 
