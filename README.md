@@ -9,7 +9,7 @@
 
 **I'm Currently Building: [VitalCare](https://github.com/Leorasaharia/VitalCare)**
 
-you can check my portfolio website: (https://golden-starship-b0dbdf.netlify.app/)
+you can check my portfolio website: (https://leorasaharia.netlify.app)
 
 How to reach me (Linkedin) **https://www.linkedin.com/in/leora-saharia-9403681a7/**
 
