@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-**I'm Currently Building: [VitalCare](https://github.com/Leorasaharia/VitalCare)**
-
-you can check my portfolio website: (https://leorasaharia.netlify.app)
+**I'm Currently Building: [VitalCare](https://github.com/Leorasaharia/vitalCare_1)**
 
 How to reach me (Linkedin) **https://www.linkedin.com/in/leora-saharia-9403681a7/**
 
