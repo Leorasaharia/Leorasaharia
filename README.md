@@ -13,8 +13,6 @@ How to reach me (Linkedin) **https://www.linkedin.com/in/leora-saharia-9403681a7
 
 How to reach me (Email) **saharialeora2406@gmail.com**
 
-My Hobbies: **I like to sing and produce song in my free time.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/leora saharia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leora saharia" height="30" width="40" /></a>
