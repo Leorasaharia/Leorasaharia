@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-**I'm Currently Building: [VitalCare](https://vitalcare1.netlify.app/)**
-
 How to reach me (Email) **saharialeora2406@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
